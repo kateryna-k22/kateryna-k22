@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @kateryna-k22
 - 👀 I am interested in Software Engineering and Web Development 
-- 🌱 I’m currently learning Data Structures and Algorithms in C++
-- 💞️ I’m looking to collaborate on projects related to C++ and Web Development
+- 💞️ I’m looking to collaborate on projects related to Web Development and more 
 - 📫 You can reach me on discord kateryna#3552
 
 <!---
